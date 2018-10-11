@@ -1,6 +1,16 @@
 # picoctf2018
 #This is write-ups
 
-'''
-This provided you some of useful method in network exploitation and web application testing 
-'''
+```
+List of Tool used 
+
+Wireshark / Tcpdump 
+nmap
+burpsuite
+cookieeditor
+stegslove
+strings
+file (unix)
+
+```
+
